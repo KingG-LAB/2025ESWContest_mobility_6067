@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/HUD_EX">
+        <file>Main.qml</file>
+        <file>assets/Car.svg</file>
+        <file>assets/siren.png</file>
+    </qresource>
+</RCC>

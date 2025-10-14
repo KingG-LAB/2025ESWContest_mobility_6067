@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/HUD_EX">
+    <file alias="qmldir">/home/rb502/HUD/build/HUD_EX/qmldir</file>
+  </qresource>
+</RCC>
+

@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/seokhwan/Desktop/HUD
+-cmake-output
+-output-file
+C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/qml_imports/appHUD_conf.cmake
+-importPath
+C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/HUD_EX
+-importPath
+C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.9.2/mingw_64/qml
+-qrcFiles
+C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qmake_HUD_EX.qrc
+C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appHUD_raw_qml_0.qrc

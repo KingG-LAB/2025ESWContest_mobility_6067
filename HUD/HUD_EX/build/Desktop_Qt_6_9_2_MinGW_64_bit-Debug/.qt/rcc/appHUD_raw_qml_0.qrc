@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/HUD_EX/">
+    <file alias="Main.qml">C:/Users/seokhwan/Desktop/HUD/Main.qml</file>
+    <file alias="HUD_EX.qrc">C:/Users/seokhwan/Desktop/HUD/HUD_EX.qrc</file>
+  </qresource>
+</RCC>
+

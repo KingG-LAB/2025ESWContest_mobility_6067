@@ -1,0 +1,14 @@
+-rootPath
+/home/rb502/HUD
+-cmake-output
+-output-file
+/home/rb502/HUD/build/.qt_plugins/Qt6_QmlPlugins_Imports_appHUD.cmake
+-importPath
+/home/rb502/HUD/build/HUD_EX
+-importPath
+/home/rb502/HUD/build
+-importPath
+/usr/lib/aarch64-linux-gnu/qt6/qml
+-qrcFiles
+/home/rb502/HUD/build/.rcc/qmake_HUD_EX.qrc
+/home/rb502/HUD/build/.rcc/appHUD_raw_qml_0.qrc

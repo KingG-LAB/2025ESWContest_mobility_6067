@@ -1,0 +1,27 @@
+{
+	"BUILD_DIR" : "C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/appHUD_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/seokhwan/Desktop/HUD",
+	"CMAKE_SOURCE_DIR" : "C:/Users/seokhwan/Desktop/HUD",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/appHUD_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/seokhwan/Desktop/HUD/Main.qml",
+		"C:/Users/seokhwan/Desktop/HUD/assets/Car.svg",
+		"C:/Users/seokhwan/Desktop/HUD/assets/siren.png"
+	],
+	"LOCK_FILE" : "C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/appHUD_autogen.dir/AutoRcc_HUD_EX_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "HUD_EX" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_HUD_EX.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.2/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/CMakeFiles/appHUD_autogen.dir/AutoRcc_HUD_EX_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/seokhwan/Desktop/HUD/HUD_EX.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,10 @@
+-I
+C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug
+-I
+C:/Qt/6.9.2/mingw_64/qml
+--resource
+C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/qmake_HUD_EX.qrc
+--resource
+C:/Users/seokhwan/Desktop/HUD/HUD_EX/build/Desktop_Qt_6_9_2_MinGW_64_bit-Debug/.qt/rcc/appHUD_raw_qml_0.qrc
+--module
+HUD_EX

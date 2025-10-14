@@ -1,0 +1,154 @@
+[
+    {
+        "classes": [
+            {
+                "className": "MqttManager",
+                "object": true,
+                "properties": [
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 0,
+                        "name": "eta",
+                        "notify": "etaChanged",
+                        "read": "eta",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 1,
+                        "name": "totalLanes",
+                        "notify": "totalLanesChanged",
+                        "read": "totalLanes",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 2,
+                        "name": "currentLane",
+                        "notify": "currentLaneChanged",
+                        "read": "currentLane",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 3,
+                        "name": "avoidDir",
+                        "notify": "avoidDirChanged",
+                        "read": "avoidDir",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 4,
+                        "name": "ambulanceLane",
+                        "notify": "ambulanceLaneChanged",
+                        "read": "ambulanceLane",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "int",
+                        "user": false
+                    },
+                    {
+                        "constant": false,
+                        "designable": true,
+                        "final": false,
+                        "index": 5,
+                        "name": "state",
+                        "notify": "stateChanged",
+                        "read": "state",
+                        "required": false,
+                        "scriptable": true,
+                        "stored": true,
+                        "type": "QString",
+                        "user": false
+                    }
+                ],
+                "qualifiedClassName": "MqttManager",
+                "signals": [
+                    {
+                        "access": "public",
+                        "name": "etaChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "totalLanesChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "currentLaneChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "avoidDirChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "ambulanceLaneChanged",
+                        "returnType": "void"
+                    },
+                    {
+                        "access": "public",
+                        "name": "stateChanged",
+                        "returnType": "void"
+                    }
+                ],
+                "slots": [
+                    {
+                        "access": "private",
+                        "arguments": [
+                            {
+                                "name": "message",
+                                "type": "QByteArray"
+                            },
+                            {
+                                "name": "topic",
+                                "type": "QMqttTopicName"
+                            }
+                        ],
+                        "name": "onMessageReceived",
+                        "returnType": "void"
+                    }
+                ],
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "mqttmanager.h",
+        "outputRevision": 68
+    }
+]

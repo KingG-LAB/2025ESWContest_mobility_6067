@@ -1,0 +1,6 @@
+module HUD_EX
+typeinfo appHUD.qmltypes
+prefer :/HUD_EX/
+Main 1.0 Main.qml
+depends QtQuick
+

@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/HUD_EX/">
+    <file alias="Main.qml">/home/rb502/HUD/Main.qml</file>
+    <file alias="HUD_EX.qrc">/home/rb502/HUD/HUD_EX.qrc</file>
+  </qresource>
+</RCC>
+
