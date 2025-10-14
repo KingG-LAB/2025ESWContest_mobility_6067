@@ -14,5 +14,5 @@ class Config:
     WEB_SERVER_URL = "http://192.168.137.184:5001" #웹 띄운 노트북 ip로 변경(변경 필수!!!!)
 
     # 🔑 Kakao Mobility REST API Key
-    REST_API_KEY = "f345f684051191769c60a3d5f15d3774"
+    REST_API_KEY = ""
     API_URL = "https://apis-navi.kakaomobility.com/v1/directions"

@@ -8,7 +8,7 @@ import retrofit2.http.Query
 interface TmapService {
     @GET("tmap/pois")
     suspend fun searchPoi(
-        @Header("appKey") appKey: String = "73xHlMiaGI39dgyBwYeO55jUPwFiKn4027JN3ntC",
+        @Header("appKey") appKey: String = "",
         @Query("version") version: Int = 1,
         @Query("format") format: String = "json",
         @Query("searchKeyword") keyword: String,

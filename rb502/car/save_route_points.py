@@ -3,7 +3,7 @@ import json
 from kakao_client import KakaoClient
 
 # ✅ Kakao API Key
-REST_API_KEY = "f345f684051191769c60a3d5f15d3774"
+REST_API_KEY = ""
 kakao = KakaoClient(api_key=REST_API_KEY)
 
 # ✅ 출발지: 사당역
