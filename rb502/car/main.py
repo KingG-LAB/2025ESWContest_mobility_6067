@@ -122,7 +122,8 @@ client.connect(MQTT_BROKER, MQTT_PORT, 60)
 car = Car(client, car_coords)
 car.start()
 lcd.start()
-# print("캐시 없음음 확인용")
+# print("캐시 없음 확인용")
 
 client.loop_forever()
+
 
