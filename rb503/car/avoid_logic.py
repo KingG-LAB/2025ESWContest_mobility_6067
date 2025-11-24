@@ -1,6 +1,6 @@
 def decide_avoid_dir(current_lane: int, total_lanes: int = 3) -> tuple[int, int]:
     """
-    현재 차선 번호에 따라 회피 방향(avoidDir)과 앰뷸런스 차선 번호를 결정한다.
+    현재 차선의 정보를 따라 응급 차량 회피 메뉴얼에 따른 회피로직
     """
     if total_lanes == 3:
         if current_lane == 1:

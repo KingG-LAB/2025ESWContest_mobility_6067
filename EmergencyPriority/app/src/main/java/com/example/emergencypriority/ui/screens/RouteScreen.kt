@@ -35,7 +35,7 @@ fun RouteScreen(
     // ✅ 응답에서 파싱된 거리 / 시간 상태
     var distance by remember { mutableStateOf("") }
     var duration by remember { mutableStateOf("") }
-
+ 
     val coroutineScope = rememberCoroutineScope()
     val location = route.location
 
