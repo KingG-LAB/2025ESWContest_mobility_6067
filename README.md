@@ -1,4 +1,4 @@
-# 2025ESWContest_mobility_6067
+# 2025ESWContest_mobility_6067 ('25.04.30 ~ 12.05)
 2025ESWContest_mobility_6067_비켜요
 
 [작품명]
